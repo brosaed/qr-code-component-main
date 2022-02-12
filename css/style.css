@@ -31,7 +31,7 @@ img {
     border-radius: 8px;
 }
 .card {
-    max-width: 320px;
+    max-width: 300px;
     background-color: var(--White);
     padding: 1.2em;
     display: flex;
@@ -39,7 +39,7 @@ img {
     justify-content: center;
     align-items: center;
     margin: auto;
-    margin-top: 9%;
+    margin-top: 8%;
     margin-bottom: 2%;
     border-radius: 22px;
 }
@@ -61,7 +61,7 @@ img {
     font-weight: 400;
     color: var(--Grayish-blue);
     font-size: 15px;
-    padding: 0 15px;
+    padding: 12px;
 
 }
 /* Responsive Screen */
